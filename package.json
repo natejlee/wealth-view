@@ -1,0 +1,19 @@
+{
+  "name": "wealthview",
+  "version": "1.0.0",
+  "description": "Single page application for viewing your financial portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeKeve/wealth-view.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeKeve/wealth-view/issues"
+  },
+  "homepage": "https://github.com/LeKeve/wealth-view#readme"
+}
