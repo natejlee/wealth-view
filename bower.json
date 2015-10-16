@@ -1,0 +1,23 @@
+{
+  "name": "wealthView",
+  "version": "0.0.0",
+  "homepage": "https://github.com/LeKeve/wealth-view",
+  "authors": [
+    "Kevin Lee <kevinyjlee23@gmail.com>"
+  ],
+  "description": "A single page application for viewing your financial portfolio",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}
